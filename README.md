@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a May 2023 MEng Software graduate from the University of Calgary available for employment.
+I am a May 2023 MEng Software graduate from the University of Calgary, available for employment.
 
 - 🔭 I’m currently working on a Finance Tracker Web App
   - Frontend: React, Redux, TypeScript, Node, Npm
