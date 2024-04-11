@@ -29,7 +29,7 @@ I am a May 2023 MEng Software graduate from the University of Calgary, available
     - [Front-End MEng Software Capstone group project: Cryptocurrency Donation Web App.](https://github.com/m-metz/cryptocurrency-donation-web-app)
       - 2024-04-05 I am asking for permission to make this public.
       - JavaScript, TypeScript, HTML, SASS, CSS, Java, SQL, Vue.js, Node, Spring Boot, JSON, XML.
-    - [Back-End: Moon Base Research Management System web app group project.](https://github.com/m-metz/moon-base-research-management-web-app)
+    - [Back-End: Moon Base Research Management System Web App group project.](https://github.com/m-metz/moon-base-research-management-web-app)
       - Java, SQL, JavaScript, HTML, CSS, Spring Boot, Bootstrap, JSON.
     - [Back-End: Movie Theatre Web App group project.](https://github.com/m-metz/movie-theatre-web-app)
       - Java, SQL, JavaScript, HTML, CSS, Spring Boot, React, Node, JSON.
@@ -42,7 +42,7 @@ I am a May 2023 MEng Software graduate from the University of Calgary, available
     - [Big Data individual assignment (Databricks Notebook): Using Levenshtein distance to correct spelling. Finding cosine similarity between unanswered and answered topic-partitioned Stack Overflow questions.](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2947494414241448/3099016446913454/2747989559085117/latest.html)
       - Python, Databricks Notebook; PySpark UDF, SQL; BeautifulSoup, Natural Language Toolkit, Scikit-learn.
       - [If Databricks Notebook is expired, download the backup HTML Notebook.](https://1drv.ms/u/s!AhtNjabG6mRVq8ZlIK03Fa4DE7Cydw)
-    - [Neural Networks: BreakHis (Breast Cancer Histopathological) ResInNet-50 (Residual naïve Inception Network 50 layer) neural network comparison group project.](https://github.com/m-metz/breakhis-resinnet-50-neural-network)
+    - [Neural Networks: BreakHis (Breast Cancer Histopathological) ResInNet-50 (Residual naïve Inception Network 50 layer) Neural Network Comparison group project.](https://github.com/m-metz/breakhis-resinnet-50-neural-network)
       - Python, Jupyter Notebook, TensorFlow, NumPy, Matplotlib, Anaconda.
     - [Machine learning individual assignment: Poisonous-Edible Mushroom Classification.](https://github.com/m-metz/ensf611-machine-learning-assignment4-m-metz)
       - Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Anaconda.
