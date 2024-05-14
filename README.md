@@ -27,7 +27,6 @@ I am a May 2023 MEng Software graduate from the University of Calgary, available
 ## 🖥 My portfolio highlights
   - **Front-End and Back-End Web Development**
     - [Front-End MEng Software Capstone group project: Cryptocurrency Donation Web App.](https://github.com/m-metz/cryptocurrency-donation-web-app)
-      - 2024-04-05 I am asking for permission to make this public.
       - JavaScript, TypeScript, HTML, SASS, CSS, Java, SQL, Vue.js, Node, Spring Boot, JSON, XML.
     - [Back-End: Moon Base Research Management System Web App group project.](https://github.com/m-metz/moon-base-research-management-web-app)
       - Java, SQL, JavaScript, HTML, CSS, Spring Boot, Bootstrap, JSON.
