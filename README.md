@@ -21,8 +21,8 @@ I am a May 2023 MEng Software graduate from the University of Calgary, available
   - Front-End: React, Redux, TypeScript, Node, Npm
   - Back-End: Java, Spring Boot, SQLite (lots of writes are not needed, individual use app).
   - Tasks
-    - ⬜2024-03-25 - Desiging UI and doing some class diagrams.
-    - ☑2024-03-03 - Requirements gathering.
+    - ⬜2024-05-14 - Desiging UI and doing some class diagrams.
+    - ☑2024-03-03 - 2024-03-25 - Requirements gathering.
 
 ## 🖥 My portfolio highlights
   - **Front-End and Back-End Web Development**
