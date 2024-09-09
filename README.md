@@ -18,11 +18,38 @@ Here are some ideas to get you started:
 I am a May 2023 MEng Software graduate from the University of Calgary, available for employment.
 
 - 🔭 I’m currently working on a Finance Tracker Web App
-  - Front-End: React, Redux, TypeScript, Node, Npm
-  - Back-End: Java, Spring Boot, SQLite (lots of writes are not needed, individual use app).
+  - Front-End: React, Redux, Next.js (for SSR), TypeScript, Node, Npm.
+  - Back-End: Java, Spring Boot for API, SQLite (lots of writes are not needed, individual use app).
   - Tasks
-    - ⬜2024-05-14 - Desiging UI and doing some class diagrams.
+    - ⬜2024-09-10 - Designing component diagrams, dynamic diagrams (similar to UML sequence diagrams), and data models.
+    - ☑2024-05-14 - 2024-09-09 - Studying React (as I only new Vue before), React Router, Redux, Next.js, Unit Testing (Jest, Mocha, Chai) E2E testing (Cypress), Spring Security.
     - ☑2024-03-03 - 2024-03-25 - Requirements gathering.
+- 📖 I have been studying
+  - 2024-09-10 - Present
+    - AWS Certified Developer - Associate (DVA-C02) Certification.
+    - Redis.
+  - 2024-01-05 - 2024-09-09 (Descending by date)
+    - Django REST APIs.
+    - Combining React with Spring (Java), Django (Python).
+    - Modern React Projects with Express.js and Node.js REST APIs.
+      - React Router, Redux, Next.js (for SSR), Redux Thunk (Side effects), Reselect, Styled-Components
+      - Unit testing (Jest, Mocha, Chai), E2E testing (Cypress).
+      - Security
+        - Best Practices.
+        - 3rd Party Authentication and Authorization (Amazon Cognito, Firebase Auth).
+        - 1st-part Authentication and Authorization (OAuth 2.0, Form-based AuthN, JWTs, e-mail verification, resetting passwords).
+    - Spring Boot and Spring (Java) REST APIs
+      - Thymeleaf templates.
+      - Spring Security
+        - 3rd-party Authorization and Authentication for Spring Security and Nginx.
+          - OAuth 2.0, Firebase Auth, GitHub Auth.
+        - 1st-party authentication, authorization (Spring Security, Form-based AuthN, JWTs, BCrypt, Server AuthZ).
+      - Production Ready Spring Boot Microservices (Versioning APIs, Flyway DB Versioning, DB Transactions, Logback, SLF4J, JUnit, Mockito, Swagger API Docs)
+    - MongoDB with JavaScript and Java.
+    - Docker.
+- 📗Other noteable skills
+  - Java 8+, Python, SQL, JavaScript ES6+, TypeScript, HTML, CSS, SASS, AWS (Lambda, ECS, EC2), C++, PowerShell.
+  - CI (GitLab, Jenkins), Cloud Infrastructure as Code (Terraform), Configuration Management (Puppet).
 
 ## 🖥 My portfolio highlights
   - **Front-End and Back-End Web Development**
