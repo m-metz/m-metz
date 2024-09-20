@@ -24,15 +24,16 @@ I am a May 2023 MEng Software graduate from the University of Calgary, available
     - ⬜2024-09-10 - Designing component diagrams, dynamic diagrams (similar to UML sequence diagrams), and data models.
     - ☑2024-05-14 - 2024-09-09 - Studying React (as I only new Vue before), React Router, Redux, Next.js, Unit Testing (Jest, Mocha, Chai) E2E testing (Cypress), Spring Security.
     - ☑2024-03-03 - 2024-03-25 - Requirements gathering.
-- 📖 I have been studying
-  - 2024-09-10 - Present
-    - AWS Certified Developer - Associate (DVA-C02) Certification.
+- 📖 I am currently studying
+  - AWS Certified Developer - Associate (DVA-C02) Certification.
+- 📘 I have recently studied
+  - 2024-09-10 - Present (Descending by date)
     - Redis.
-  - 2024-01-05 - 2024-09-09 (Descending by date)
+  - 2024-01-05 - 2024-09-09
     - Django REST APIs.
     - Combining React with Spring (Java), Django (Python).
-    - Modern React Projects with Express.js and Node.js REST APIs.
-      - React Router, Redux, Next.js, Redux, Thunk (Side effects), Reselect, Styled-Components
+    - Modern React Projects with Express.js and Node.js REST APIs
+      - React Router, Redux, Next.js, Redux, Thunk (Side effects), Reselect, Styled-Components.
       - Unit testing (Jest, Mocha, Chai), E2E testing (Cypress).
       - Security
         - Best Practices.
@@ -44,7 +45,7 @@ I am a May 2023 MEng Software graduate from the University of Calgary, available
         - 3rd-party Authorization and Authentication for Spring Security and Nginx.
           - OAuth 2.0, Firebase Auth, GitHub Auth.
         - 1st-party authentication, authorization (Spring Security, Form-based AuthN, JWTs, BCrypt, Server AuthZ).
-      - Production Ready Spring Boot Microservices (Versioning APIs, Flyway DB Versioning, DB Transactions, Logback, SLF4J, JUnit, Mockito, Swagger API Docs)
+      - Production Ready Spring Boot Microservices (Versioning APIs, Flyway DB Versioning, DB Transactions, Logback, SLF4J, JUnit, Mockito, Swagger API Docs).
     - MongoDB with JavaScript and Java.
     - Docker.
 - 📗Other noteable skills
