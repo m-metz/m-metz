@@ -32,7 +32,7 @@ I am a May 2023 MEng Software graduate from the University of Calgary, available
     - Django REST APIs.
     - Combining React with Spring (Java), Django (Python).
     - Modern React Projects with Express.js and Node.js REST APIs.
-      - React Router, Redux, Next.js (for SSR), Redux Thunk (Side effects), Reselect, Styled-Components
+      - React Router, Redux, Next.js, Redux, Thunk (Side effects), Reselect, Styled-Components
       - Unit testing (Jest, Mocha, Chai), E2E testing (Cypress).
       - Security
         - Best Practices.
