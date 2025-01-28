@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I am a May 2023 MEng Software graduate from the University of Calgary, available for employment.
-- [My Resume (PDF)](https://onedrive.live.com/?authkey=%21AO%5FKq8UUdMEoCWc&id=5564EAC6A68D4D1B%21750536&cid=5564EAC6A68D4D1B&parId=root&parQt=sharedby&o=OneUp)
+- [Software Developer Resume (PDF)](https://onedrive.live.com/?authkey=%21AO%5FKq8UUdMEoCWc&id=5564EAC6A68D4D1B%21750536&cid=5564EAC6A68D4D1B&parId=root&parQt=sharedby&o=OneUp)
+- [Data Analyst, Power Platform, Machine Learning Resume (PDF)](https://onedrive.live.com/?authkey=%21ALGMBLFKkPI44JQ&id=5564EAC6A68D4D1B%21751274&cid=5564EAC6A68D4D1B&parId=root&parQt=sharedby&o=OneUp)
 - 🔭 I’m currently working on a Finance Tracker Web App
   - Front-End: React, Redux, Next.js (for SSR), TypeScript, Node, Npm.
   - Back-End: Java, Spring Boot for API, SQLite (lots of writes are not needed, individual use app).
