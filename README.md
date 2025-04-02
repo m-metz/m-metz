@@ -55,7 +55,7 @@ I am a May 2023 MEng Software graduate from the University of Calgary, available
 
 ## 🖥 My portfolio highlights
   - **Data Analytics**
-    - [Energy Usage Distiller.pbix](https://onedrive.live.com/?cid=5564EAC6A68D4D1B&id=5564eac6a68d4d1b%21755546&parId=5564eac6a68d4d1b%21755533&o=OneUp)
+    - [Energy Usage Distiller.pbix](https://onedrive.live.com/?authkey=%21AAtkjAa5Qh-nRp0&id=5564EAC6A68D4D1B%21755546&cid=5564EAC6A68D4D1B)
       - An Power BI analytics demo of my distiller's energy usage. It uses a semantic model, Power Query, and DAX.
   - **Front-End and Back-End Web Development**
     - [Front-End MEng Software Capstone group project: Cryptocurrency Donation Web App.](https://github.com/m-metz/cryptocurrency-donation-web-app)
