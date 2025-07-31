@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a May 2023 MEng Software graduate from the University of Calgary, available for employment.
+I am an innovative, reliable, and precise Back-End, Full-Stack Developer | MEng Software Graduate
 - [Software Developer Resume (PDF)](https://onedrive.live.com/?authkey=%21AO%5FKq8UUdMEoCWc&id=5564EAC6A68D4D1B%21750536&cid=5564EAC6A68D4D1B&parId=root&parQt=sharedby&o=OneUp)
 - [Data Analyst, Power Platform, Machine Learning Resume (PDF)](https://onedrive.live.com/?authkey=%21ALGMBLFKkPI44JQ&id=5564EAC6A68D4D1B%21751274&cid=5564EAC6A68D4D1B&parId=root&parQt=sharedby&o=OneUp)
 - 🔭 I’m currently working on a Finance Tracker Web App
